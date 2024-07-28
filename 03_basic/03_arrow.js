@@ -45,7 +45,4 @@ const addtwo=(num1,num2)=>( {username:"vidhi"} )     // jb paranthesis lagaye to
 
 
 console.log((addtwo(3,4)));
-
-// const myArray = [2,3,4,5,6]
-
-// myArray.forEach()
+ 
